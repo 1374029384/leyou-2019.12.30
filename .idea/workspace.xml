@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0660458-70c6-40ee-aa42-167274dced34" name="Default Changelist" comment="" />
+    <list default="true" id="d0660458-70c6-40ee-aa42-167274dced34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-api-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-api-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-api-gateway/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/ServiceAppcation.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/ServiceAppcation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/ServiceAppcation.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/ServiceAppcation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-registry/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-registry/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-registry/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-registry/target/classes/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +26,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\idea\leyou\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -25,6 +49,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1VhHN1QIJr0Xi1SPsyAJkKj7oFq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,10 +61,11 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leyou-manage-web" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,6 +75,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -62,7 +89,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceAppcation">
+  <component name="RunManager" selected="Spring Boot.RegAppcation">
     <configuration name="GateAppcation" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ly-api-gateway" />
       <extension name="coverage">
@@ -146,74 +173,118 @@
       <workItem from="1577708410749" duration="300000" />
       <workItem from="1577711825320" duration="1922000" />
       <workItem from="1577755881474" duration="599000" />
-      <workItem from="1577777178147" duration="2982000" />
+      <workItem from="1577777178147" duration="8566000" />
+      <workItem from="1577936527210" duration="5469000" />
+      <workItem from="1577947986445" duration="8203000" />
+      <workItem from="1577963343410" duration="59000" />
+      <workItem from="1577964382626" duration="949000" />
+      <workItem from="1577965792483" duration="1332000" />
     </task>
+    <task id="LOCAL-00001" summary="2019.12.30 第一次提交">
+      <created>1577780587804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577780587804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019.12.30 第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.12.30 第一次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Project_Structure" timestamp="1577706579482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1577706579482" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1577780507558">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1577955784574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577780507558" />
-    <state width="1024" height="178" key="GridCell.Tab.0.bottom" timestamp="1577778398671">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577955784574" />
+    <state x="369" y="6" key="CommitChangelistDialog2" timestamp="1577780584301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577778398671" />
-    <state width="1024" height="178" key="GridCell.Tab.0.center" timestamp="1577778398671">
+    <state x="369" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577780584301" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1577965102652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577778398671" />
-    <state width="1024" height="178" key="GridCell.Tab.0.left" timestamp="1577778398670">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577965102652" />
+    <state width="1024" height="271" key="GridCell.Tab.0.bottom" timestamp="1577966777905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577778398670" />
-    <state width="1024" height="178" key="GridCell.Tab.0.right" timestamp="1577778398671">
+    <state width="1024" height="271" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state width="1024" height="271" key="GridCell.Tab.0.center" timestamp="1577966777905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577778398671" />
-    <state width="1024" height="178" key="GridCell.Tab.1.bottom" timestamp="1577778398671">
+    <state width="1024" height="271" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state width="1024" height="271" key="GridCell.Tab.0.left" timestamp="1577966777905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="178" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577778398671" />
-    <state width="1024" height="178" key="GridCell.Tab.1.center" timestamp="1577778398671">
+    <state width="1024" height="271" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state width="1024" height="271" key="GridCell.Tab.0.right" timestamp="1577966777905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="178" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577778398671" />
-    <state width="1024" height="178" key="GridCell.Tab.1.left" timestamp="1577778398671">
+    <state width="1024" height="271" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state width="1024" height="271" key="GridCell.Tab.1.bottom" timestamp="1577966777905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="178" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577778398671" />
-    <state width="1024" height="178" key="GridCell.Tab.1.right" timestamp="1577778398671">
+    <state width="1024" height="271" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state width="1024" height="271" key="GridCell.Tab.1.center" timestamp="1577966777905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="178" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577778398671" />
-    <state width="1014" height="178" key="GridCell.Tab.2.bottom" timestamp="1577778082423">
+    <state width="1024" height="271" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state width="1024" height="271" key="GridCell.Tab.1.left" timestamp="1577966777905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1014" height="178" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577778082423" />
-    <state width="1014" height="178" key="GridCell.Tab.2.center" timestamp="1577778082422">
+    <state width="1024" height="271" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state width="1024" height="271" key="GridCell.Tab.1.right" timestamp="1577966777905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1014" height="178" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1577778082422" />
-    <state width="1014" height="178" key="GridCell.Tab.2.left" timestamp="1577778082422">
+    <state width="1024" height="271" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state width="1024" height="271" key="GridCell.Tab.2.bottom" timestamp="1577966777905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1014" height="178" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1577778082422" />
-    <state width="1014" height="178" key="GridCell.Tab.2.right" timestamp="1577778082422">
+    <state width="1024" height="271" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state width="1024" height="271" key="GridCell.Tab.2.center" timestamp="1577966777905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1014" height="178" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1577778082422" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1577708570996">
+    <state width="1024" height="271" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state width="1024" height="271" key="GridCell.Tab.2.left" timestamp="1577966777905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577708570996" />
+    <state width="1024" height="271" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state width="1024" height="271" key="GridCell.Tab.2.right" timestamp="1577966777905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="271" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1577966777905" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1577956455666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577956455666" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1577780598033">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577780598033" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1577964490537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577964490537" />
     <state x="178" y="114" key="new project wizard" timestamp="1577779334367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
