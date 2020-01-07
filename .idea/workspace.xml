@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0660458-70c6-40ee-aa42-167274dced34" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-api-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-api-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-api-gateway/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/controller/BrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/controller/BrandController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/controller/CategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/mapper/BrandMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/mapper/BrandMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/mapper/CategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/mapper/CategoryMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/service/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/service/BrandService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/blb/item/service/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/controller/BrandController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/controller/BrandController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/controller/CategoryController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/mapper/BrandMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/mapper/BrandMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/mapper/CategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/mapper/CategoryMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/service/BrandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/service/BrandService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/blb/item/service/CategoryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-registry/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-registry/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-registry/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-registry/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +208,7 @@
       <workItem from="1578118358974" duration="446000" />
       <workItem from="1578206471334" duration="6261000" />
       <workItem from="1578299282755" duration="10217000" />
-      <workItem from="1578360643893" duration="2468000" />
+      <workItem from="1578360643893" duration="2706000" />
     </task>
     <task id="LOCAL-00001" summary="2019.12.30 第一次提交">
       <created>1577780587804</created>
@@ -253,7 +231,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577967252781</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2020.1.7 第一次提交">
+      <created>1578397052091</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578397052091</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2020.1.7 第一次提交">
+      <created>1578397096945</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578397096945</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +267,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019.12.30 第一次提交" />
     <MESSAGE value="2019.1.2 第二次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.1.2 第二次提交" />
+    <MESSAGE value="2020.1.7 第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.1.7 第一次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Project_Structure" timestamp="1578210342266">
@@ -294,10 +287,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="527" y="271" width="481" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1578213519340" />
-    <state x="369" y="6" key="CommitChangelistDialog2" timestamp="1578397047100">
+    <state x="369" y="6" key="CommitChangelistDialog2" timestamp="1578397094336">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="369" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578397047100" />
+    <state x="369" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578397094336" />
     <state x="209" y="92" key="DiffContextDialog" timestamp="1577967393537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -362,10 +355,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577956455666" />
-    <state x="573" y="167" key="Vcs.Push.Dialog.v2" timestamp="1578397067386">
+    <state x="573" y="167" key="Vcs.Push.Dialog.v2" timestamp="1578397146432">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="573" y="167" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578397067386" />
+    <state x="573" y="167" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578397146432" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1578360648003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
