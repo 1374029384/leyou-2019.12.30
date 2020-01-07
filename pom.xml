@@ -13,6 +13,11 @@
         <module>ly-api-gateway</module>
         <module>ly-item</module>
         <module>ly-common</module>
+        <module>ly-upload</module>
+        <module>ly-upload</module>
+        <module>ly-upload</module>
+        <module>ly-upload1</module>
+        <module>ly-search</module>
     </modules>
 
     <parent>

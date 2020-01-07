@@ -8,6 +8,7 @@ import com.github.pagehelper.PageHelper;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 import tk.mybatis.mapper.entity.Example;
 import tk.mybatis.mapper.util.StringUtil;
 
@@ -43,5 +44,28 @@ public class BrandService {
 
          return  new PageResult<>(page1.getTotal(),new Long(page1.getPages()),page1
          .getResult());
+    }
+
+    @Transactional
+    public void addBrand(Brand brand, List<Long> cids) {
+        //插入tb_brand
+        brandMapper.insertSelective(brand);
+        //插入中间表tb_category_brand
+        for(Long i : cids){
+            brandMapper.insertBrandCategory(brand.getId(),i);
+        }
+    }
+
+
+    @Transactional
+    public void updateBrand(Brand brand, List<Long> cids) {
+        //更新tb_brand
+        this.brandMapper.updateByPrimaryKey(brand);
+        //删除中间表
+        this.brandMapper.deleteBrandCategory(brand.getId());
+        //插入中间表
+        cids.forEach(t->{
+            brandMapper.insertBrandCategory(brand.getId(),t);
+        });
     }
 }

@@ -19,4 +19,8 @@ public class CategoryService {
         category.setParentId(id);
         return categoryMapper.select(category);
     }
+
+    public List<Category> queryByBrandId(Long id) {
+        return  categoryMapper.queryBrandId(id);
+    }
 }
